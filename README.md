@@ -1,3 +1,6 @@
+
+Clicky Game App!
+
 The application render 12 different images of pooh to the screen. Each image listens for click events.
 
 The application keeps track of the user's score. The user's score increases when an image is clicked for the first time. The user's score reset to 0 if they click the same image more than once.
